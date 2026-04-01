@@ -1,0 +1,3 @@
+{"instruction":"Define overfitting in machine learning.","input":"","output":"Overfitting happens when a model learns training-specific noise instead of general patterns, causing weak performance on unseen data."}
+{"instruction":"Explain LoRA in one paragraph.","input":"","output":"LoRA (Low-Rank Adaptation) fine-tunes large models by injecting small trainable low-rank matrices into selected layers, dramatically reducing trainable parameters and GPU memory needs while retaining strong task adaptation performance."}
+{"instruction":"Why use 8-bit quantization during fine-tuning?","input":"","output":"8-bit quantization reduces memory footprint and can speed training, making large models practical on smaller GPUs with minimal quality trade-offs for many tasks."}
