@@ -77,6 +77,3 @@ Tune these values in `configs/train_config.json`:
 - If you use private models/datasets, set your Hugging Face token before training.
 - Adapter weights are saved under the configured `output_dir`.
 
-## License
-
-This project is released under the license in `LICENSE`.
